@@ -5,7 +5,10 @@ Listview menjadi komponen pertama yang mengakomodasi hal tersebut. Namun semenja
 RecyclerView adalah sebuah komponen tampilan (widget) yang lebih canggih ketimbang pendahulunya listview. Ia bersifat lebih fleksibel. RecyclerView memiliki kemampuan untuk menampilkan data secara efisien dalam jumlah yang besar. Terlebih jika Anda memiliki koleksi data dengan elemen yang mampu berubah-ubah sewaktu dijalankan (runtime).
 Gambar di atas menerangkan beberapa komponen yang harus Anda ketahui sebelum menggunakan recyclerview.
 
-![picture](http://stash.xxxxxx.com/projects/zzzzz/img/abc.png)
+
+<p align="center">
+  <img  src="https://dicodingacademy.blob.core.windows.net/academies/201706051440121b186ca7c9c9817ed4f1d51f4e31b09c.png"  />
+</p> 
 
     RecyclerView dan LayoutManager : Komponen antarmuka yang bertugas untuk menampilkan data set yang dimiliki di dalamnya. Layoutmanager akan mengatur posisi tampilan data baik itu secara list (vertikal), grid (baris dan kolom) atau staggeredgrid (grid yang memiliki susunan tak seragam / tak beraturan)
 
