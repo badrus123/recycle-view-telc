@@ -7,7 +7,7 @@ Gambar di atas menerangkan beberapa komponen yang harus Anda ketahui sebelum men
 
 
 <p align="center">
-  <img  src="https://dicodingacademy.blob.core.windows.net/academies/201706051440121b186ca7c9c9817ed4f1d51f4e31b09c.png"  />
+  <img  src="https://idwahyu.files.wordpress.com/2016/10/recyclerview.png?w=1200"  />
 </p> 
 
     RecyclerView dan LayoutManager : Komponen antarmuka yang bertugas untuk menampilkan data set yang dimiliki di dalamnya. Layoutmanager akan mengatur posisi tampilan data baik itu secara list (vertikal), grid (baris dan kolom) atau staggeredgrid (grid yang memiliki susunan tak seragam / tak beraturan)
